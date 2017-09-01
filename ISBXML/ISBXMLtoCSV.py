@@ -1,4 +1,5 @@
-"""This module does blah blah."""
+"""This Python script takes the Excel file, for account overview,
+   downloaded from islandsbanki.is online bank and transforms it into a CSV file."""
 import xml.etree.ElementTree
 import unicodecsv as csv
 import re
